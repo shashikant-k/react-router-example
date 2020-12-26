@@ -1,0 +1,27 @@
+[
+  {
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "capital": "London"
+  },
+  {
+    "countryCode": "IN",
+    "country": "India",
+    "capital": "Delhi"
+  },
+  {
+    "countryCode": "CL",
+    "country": "Chile",
+    "capital": "Santiago"
+  },
+  {
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "capital": "Dhaka"
+  },
+  {
+    "countryCode": "US",
+    "country": "United States of America",
+    "capital": "Washington DC"
+  }
+]
